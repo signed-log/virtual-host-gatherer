@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Mon Aug 11 10:15:15 WEST 2025 - psuarezhernandez@suse.com
+
+- version 1.0.29-0
+  * Make codebase to be REUSE compatible
+  * Apply black code formatting and fix pylint issues
+
+-------------------------------------------------------------------
 Fri Jan 10 16:06:34 CET 2025 - michael.calmer@suse.com
 
 - version 1.0.28-1
